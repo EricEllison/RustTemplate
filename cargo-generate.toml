@@ -1,0 +1,2 @@
+[template]
+skip_substitutions = ["cliff.toml"]
